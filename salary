@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class cost{
+
+     public static void main(String []args){
+        int salary = 500;
+        int yearofservice = 6;
+        if(yearofservice > 5){
+            System.out.println(" total salary of user "+ salary* 1.05);
+        }
+        else{
+            System.out.println(" total cost of user ");
+        }
+     }
+}
