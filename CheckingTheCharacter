@@ -1,0 +1,18 @@
+public class CHARACTER{
+
+     public static void main(String []args){
+    
+        char var = 'A';
+        
+         if(var>='a'&& var<='z'){
+                 System.out.println(" character is lowercase ( a to z )");
+         }
+         else if (var>='A'&& var <='Z'){
+             System.out.println(" character is uppercase ( A to Z )");
+         }
+         else{
+             System.out.println("not a character");
+         }
+        
+}
+}
