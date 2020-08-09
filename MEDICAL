@@ -1,0 +1,14 @@
+public class MEDICAL{
+
+     public static void main(String []args){
+    
+        boolean medicalFit = true;
+         if(medicalFit ){
+                 System.out.println("student is allowed to sit in exam");
+         }
+         else{
+             System.out.println("student is not allowed to sit in exam");
+         }
+        
+}
+}
