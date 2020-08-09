@@ -1,0 +1,12 @@
+public class INPUT{
+
+     public static void main(String []args){
+         int a= -6;
+         if(a<0){
+                 System.out.println("absolute value" + (-1*a));
+         }
+         else{
+             System.out.println(" absolute value "+a);
+         }
+}
+}
